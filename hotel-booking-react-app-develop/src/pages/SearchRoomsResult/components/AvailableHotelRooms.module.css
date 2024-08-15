@@ -1,0 +1,34 @@
+.container {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid;
+}
+
+.hotel {
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hotelImage {
+    width: 250px;
+}
+
+.content {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+.content p {
+    margin: 0px;
+}
+
+.title h2 {
+    display: inline-block;
+}
+
+.rooms {
+    display: inline-block;
+}

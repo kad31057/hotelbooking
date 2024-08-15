@@ -1,0 +1,18 @@
+.container {
+    padding: 10px;
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.content h3 {
+    margin: 10px 0px;
+}
+
+.image {
+    margin-right: 10px;
+}
